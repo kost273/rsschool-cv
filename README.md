@@ -1,1 +1,1 @@
-https:// kost273.github.io.github.io/rsschool-cv/cv
+https:// kost273.github.io/rsschool-cv/cv
