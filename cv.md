@@ -40,16 +40,7 @@ function multiply(a, b){
 
 
 
-#### Courses:
-- HTML and CSS Tutorials on the https://code-basics.com/ru(completed)
 
-- JavaScript Manual on learnjavascript.ru (in progress)
-
-- RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-
-#### Languages:
-
-- А1 (Beginner)
 
 
 
